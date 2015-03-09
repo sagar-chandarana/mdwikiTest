@@ -10,6 +10,11 @@ Timeline:
 6:45pm Hack time! 
 9:15pm Presentations: Show off what you have made
 
+<button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo">
+  simple collapsible
+</button>
+ 
+<div id="demo" class="collapse in"> Lol</div>
 
 FAQs
 
